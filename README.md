@@ -1,5 +1,5 @@
 <h1>Aplicando máscara em CPF e CELULAR em golang e fyne.</h1><br />
-<p>Chamadas no main.go de CELULAR para CELULAR:</p><br />
+<p>Chamadas no main.go de CELULAR ou CPF:</p><br />
 
 ```go
 	myApp := app.New()
