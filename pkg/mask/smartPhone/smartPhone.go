@@ -31,10 +31,8 @@ func (c *Mask) SetMask() *widget.Entry {
 			maskedText = "(" + numericText[:2] + ") " + numericText[2:7] + "-" + numericText[7:]
 		}
 
-		if c.input.Text != maskedText {
-			c.input.SetText(maskedText)
-			c.input.CursorColumn = len(maskedText)
-		}
+		c.input.SetText(maskedText)
+		c.input.CursorColumn = len(maskedText)
 	}
 
 	return c.input
