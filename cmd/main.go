@@ -3,7 +3,7 @@ package main
 import (
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"
-	"github.com/rafaelsouzaribeiro/mascara-em-cpf-e-celular-fyne-e-go/infra/di"
+	"github.com/rafaelsouzaribeiro/mascara-em-cpf-e-celular-fyne-e-go/internal/infra/di"
 )
 
 func main() {

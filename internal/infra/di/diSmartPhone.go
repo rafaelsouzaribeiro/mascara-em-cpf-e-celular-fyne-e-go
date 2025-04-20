@@ -4,7 +4,7 @@ import (
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/container"
 	"fyne.io/fyne/v2/widget"
-	"github.com/rafaelsouzaribeiro/mascara-em-cpf-e-celular-fyne-e-go/pkg/components/input"
+	"github.com/rafaelsouzaribeiro/mascara-em-cpf-e-celular-fyne-e-go/internal/components/input"
 	smartphone "github.com/rafaelsouzaribeiro/mascara-em-cpf-e-celular-fyne-e-go/pkg/mask/smartPhone"
 )
 
