@@ -1,6 +1,6 @@
 <h1>Aplicando máscara em CPF e CELULAR em golang e fyne.</h1><br />
 <p>Chamadas no main.go de CELULAR para CELULAR:</p><br />
-```go
+```
 
 	myApp := app.New()
 	myWindow := myApp.NewWindow("Máscara de CPF")
@@ -13,7 +13,7 @@
 ```
  <br />
 
-```go
+```
 
  	myApp := app.New()
 	myWindow := myApp.NewWindow("Máscara de Celular")
