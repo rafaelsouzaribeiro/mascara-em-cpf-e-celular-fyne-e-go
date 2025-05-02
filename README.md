@@ -1,5 +1,6 @@
 <h1>Aplicando máscara em CPF e CELULAR em golang e fyne.</h1><br />
 <p>Chamadas no main.go de CELULAR ou CPF:</p><br />
+<p> Para máscara geral use o seguinte <a href="https://github.com/rafaelsouzaribeiro/fyne-mask" title="fyne mask">repo</a></p><br />
 
 ```go
 	myApp := app.New()
